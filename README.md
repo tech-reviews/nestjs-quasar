@@ -20,6 +20,6 @@ Please describe your thought-process while performing the tasks and steps needed
 - A default route to display a tabular summary of sample user data with a link/route to view user details
 - Add a simple "Not Found" component or page for unmatched routes
 
-Sample user data is in the [sample-data](./sample-data/) folder.
+Sample user data is in the [sample-data](./sample-data/) folder. Use it as needed to complete the requirements.
 
 You may use any resources available to you, eg: Vue docs, Quasar docs, NestJS docs, the interviewers, Google, etc.
