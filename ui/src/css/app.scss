@@ -1,0 +1,65 @@
+// app global css in SCSS form
+.card {
+    display: block;
+    border-radius: 1vw;
+    padding: 2vw;
+    margin: 2vw 0;
+}
+
+.main-wrapper {
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+.main {
+    background-color: rgb(226, 207, 184);
+    border-radius: 1vw;
+    margin:  0 25vw;
+}
+
+.main :hover {
+    cursor: pointer;
+    background-color: rgb(170, 166, 166);
+    color: aqua;
+}
+
+.pref {
+    font-weight: 800;
+    padding-right: 10px;
+}
+
+.value {
+    font-weight: 400;
+}
+
+.user {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    border: 0px;
+    padding: 2vw;
+    border-radius: 1vw;
+    background-color: aquamarine;
+    box-shadow: 0 0 5vw;
+}
+
+.user h4 {
+    padding: 5px 0;
+    margin: 5px 0;
+}
+
+.user-block {
+    display: flex;
+    justify-content: left;
+}
+
+.details-box {
+    display: inline-block;
+}
+
+.back-btn {
+    display: block;
+    position: absolute;
+    top: 2vw;
+    left: 2vw;
+}
